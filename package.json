@@ -1,0 +1,28 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "node-test",
+  "main": "app.js",
+  "scripts": {
+    "test": "command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monzelb/node-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monzelb/node-test/issues"
+  },
+  "homepage": "https://github.com/monzelb/node-test#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.1.1",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2",
+    "xml-js": "^1.6.11"
+  }
+}
