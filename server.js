@@ -37,8 +37,6 @@ app.get('/', function(req, res) {
    res.send('user ' + req.body.message);
 return res.body;
 
-
-
   // return res.json({
   //     success: true
   //   });
@@ -67,7 +65,6 @@ return res.body;
 	//     console.dir(res.statusCode);
 	//     console.dir(body);
 	//   });
-
 
 
   });
